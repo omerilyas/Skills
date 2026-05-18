@@ -1,0 +1,28 @@
+{
+  "skillSpecVersion": "1",
+  "id": "powerpoint-builder",
+  "name": "PowerPoint Builder",
+  "version": "1.0.0",
+  "summary": "Turn structured outlines into branded PowerPoint decks.",
+  "description": "Generates polished, on-brand PowerPoint decks from a structured outline. Handles title slides, agenda, content slides, and a closing slide using your team's template.",
+  "whenToUse": "Use when you have bullet-point notes or a meeting brief and need a presentable deck in minutes.",
+  "owner": "marketing-tools",
+  "category": "Productivity",
+  "tags": [
+    "powerpoint",
+    "decks",
+    "office",
+    "marketing"
+  ],
+  "supportedAgents": [
+    "claude-code",
+    "cursor",
+    "vscode"
+  ],
+  "suggestedRiskLevel": "Low",
+  "installPaths": {},
+  "hooks": {
+    "preInstall": null,
+    "postInstall": null
+  }
+}

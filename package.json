@@ -1,0 +1,9 @@
+{
+  "name": "skills-registry",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "validate": "echo 'Stub validator. Phase 3 wires the real package-validator.' && node -e 'console.log(\"OK\")'",
+    "build:registry": "echo 'Stub registry builder. Phase 3 ships scripts/build-registry.ts.'"
+  }
+}

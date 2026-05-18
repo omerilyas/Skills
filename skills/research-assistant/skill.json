@@ -1,0 +1,29 @@
+{
+  "skillSpecVersion": "1",
+  "id": "research-assistant",
+  "name": "Research Assistant",
+  "version": "1.2.0",
+  "summary": "Plan, gather, and summarize research from internal sources.",
+  "description": "Breaks a topic into research subtasks, drafts a search plan, retrieves relevant internal documents, and produces a citation-rich summary.",
+  "whenToUse": "Use when you need a starting brief on an unfamiliar topic with sources you can verify.",
+  "owner": "knowledge-tools",
+  "category": "Research",
+  "tags": [
+    "research",
+    "summarization",
+    "knowledge"
+  ],
+  "supportedAgents": [
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "gemini",
+    "vscode"
+  ],
+  "suggestedRiskLevel": "Low",
+  "installPaths": {},
+  "hooks": {
+    "preInstall": null,
+    "postInstall": null
+  }
+}

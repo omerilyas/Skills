@@ -1,0 +1,256 @@
+{
+  "registryVersion": "1",
+  "generatedAt": "2026-05-18T19:05:23.240Z",
+  "skills": [
+    {
+      "id": "powerpoint-builder",
+      "name": "PowerPoint Builder",
+      "version": "1.0.0",
+      "summary": "Turn structured outlines into branded PowerPoint decks.",
+      "description": "Generates polished, on-brand PowerPoint decks from a structured outline. Handles title slides, agenda, content slides, and a closing slide using your team's template.",
+      "whenToUse": "Use when you have bullet-point notes or a meeting brief and need a presentable deck in minutes.",
+      "owner": "marketing-tools",
+      "category": "Productivity",
+      "tags": [
+        "powerpoint",
+        "decks",
+        "office",
+        "marketing"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "vscode"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Low",
+      "installCount": 412,
+      "downloadCount": 731,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-04-22",
+      "path": "skills/powerpoint-builder",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/powerpoint-builder/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/powerpoint-builder/SKILL.md"
+    },
+    {
+      "id": "research-assistant",
+      "name": "Research Assistant",
+      "version": "1.2.0",
+      "summary": "Plan, gather, and summarize research from internal sources.",
+      "description": "Breaks a topic into research subtasks, drafts a search plan, retrieves relevant internal documents, and produces a citation-rich summary.",
+      "whenToUse": "Use when you need a starting brief on an unfamiliar topic with sources you can verify.",
+      "owner": "knowledge-tools",
+      "category": "Research",
+      "tags": [
+        "research",
+        "summarization",
+        "knowledge"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "windsurf",
+        "gemini",
+        "vscode"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Low",
+      "installCount": 327,
+      "downloadCount": 540,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-05-02",
+      "path": "skills/research-assistant",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/research-assistant/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/research-assistant/SKILL.md"
+    },
+    {
+      "id": "executive-email-writer",
+      "name": "Executive Email Writer",
+      "version": "0.9.1",
+      "summary": "Draft concise, executive-ready emails from rough notes.",
+      "description": "Rewrites rough notes into clear, short emails with the right tone for an executive audience. Offers two variants: brief and slightly longer.",
+      "whenToUse": "Use when you need to send a short, high-quality email and you only have bullet points.",
+      "owner": "comms-tools",
+      "category": "Communication",
+      "tags": [
+        "email",
+        "writing",
+        "executive"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "vscode",
+        "github-copilot"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Low",
+      "installCount": 198,
+      "downloadCount": 305,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-04-30",
+      "path": "skills/executive-email-writer",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/executive-email-writer/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/executive-email-writer/SKILL.md"
+    },
+    {
+      "id": "cisco-demo-builder",
+      "name": "Cisco Demo Builder",
+      "version": "2.1.0",
+      "summary": "Scaffold a Cisco product demo with talk track and config.",
+      "description": "Generates a demo runbook for a chosen Cisco product, including a step-by-step talk track, sample configuration, and recovery commands.",
+      "whenToUse": "Use when you need to spin up a customer-ready demo and want a consistent talk track.",
+      "owner": "field-engineering",
+      "category": "Sales",
+      "tags": [
+        "cisco",
+        "demo",
+        "field-engineering"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "vscode",
+        "windsurf"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Medium",
+      "installCount": 156,
+      "downloadCount": 245,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-05-10",
+      "path": "skills/cisco-demo-builder",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/cisco-demo-builder/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/cisco-demo-builder/SKILL.md"
+    },
+    {
+      "id": "ai-security-review",
+      "name": "AI Security Review",
+      "version": "1.0.0",
+      "summary": "Run a structured security review on a code change.",
+      "description": "Walks through a pull request and flags common security issues: input validation gaps, injection risk, secret exposure, unsafe deserialization, weak auth checks.",
+      "whenToUse": "Use before merging a non-trivial change that touches user input, auth, or third-party calls.",
+      "owner": "security-engineering",
+      "category": "Security",
+      "tags": [
+        "security",
+        "review",
+        "code-review"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "vscode",
+        "github-copilot",
+        "windsurf"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "High",
+      "installCount": 263,
+      "downloadCount": 388,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-05-05",
+      "path": "skills/ai-security-review",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/ai-security-review/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/ai-security-review/SKILL.md"
+    },
+    {
+      "id": "lab-guide-generator",
+      "name": "Lab Guide Generator",
+      "version": "1.1.0",
+      "summary": "Turn a topology brief into a hands-on lab guide.",
+      "description": "Generates a structured lab guide with prerequisites, topology, step-by-step exercises, expected outputs, and a teardown.",
+      "whenToUse": "Use when you need to publish a new hands-on lab from a topology and learning objectives.",
+      "owner": "training-tools",
+      "category": "Education",
+      "tags": [
+        "labs",
+        "training",
+        "documentation"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "vscode"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Low",
+      "installCount": 89,
+      "downloadCount": 132,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-04-18",
+      "path": "skills/lab-guide-generator",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/lab-guide-generator/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/lab-guide-generator/SKILL.md"
+    },
+    {
+      "id": "meeting-summary",
+      "name": "Meeting Summary",
+      "version": "1.0.3",
+      "summary": "Summarize meeting notes into decisions, owners, and follow-ups.",
+      "description": "Reads raw meeting notes (or a transcript) and produces a structured summary: decisions, owners, dates, open questions, and a follow-up email draft.",
+      "whenToUse": "Use right after a meeting when you want a clean summary that you can send to attendees.",
+      "owner": "ops-tools",
+      "category": "Productivity",
+      "tags": [
+        "meetings",
+        "summary",
+        "notes"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "vscode",
+        "gemini",
+        "github-copilot"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Low",
+      "installCount": 521,
+      "downloadCount": 902,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-05-12",
+      "path": "skills/meeting-summary",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/meeting-summary/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/meeting-summary/SKILL.md"
+    },
+    {
+      "id": "competitive-analysis",
+      "name": "Competitive Analysis",
+      "version": "0.8.0",
+      "summary": "Compare a product against competitors on a fixed scorecard.",
+      "description": "Builds a side-by-side scorecard comparing a product against named competitors across pricing, capability, integration, and support, with citations.",
+      "whenToUse": "Use when you need a quick comparison brief for a deal review or strategy meeting.",
+      "owner": "strategy-tools",
+      "category": "Strategy",
+      "tags": [
+        "competitive",
+        "analysis",
+        "strategy"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "vscode",
+        "windsurf"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Medium",
+      "installCount": 142,
+      "downloadCount": 211,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-05-15",
+      "path": "skills/competitive-analysis",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/competitive-analysis/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/competitive-analysis/SKILL.md"
+    }
+  ]
+}

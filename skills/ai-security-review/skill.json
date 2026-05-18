@@ -1,0 +1,29 @@
+{
+  "skillSpecVersion": "1",
+  "id": "ai-security-review",
+  "name": "AI Security Review",
+  "version": "1.0.0",
+  "summary": "Run a structured security review on a code change.",
+  "description": "Walks through a pull request and flags common security issues: input validation gaps, injection risk, secret exposure, unsafe deserialization, weak auth checks.",
+  "whenToUse": "Use before merging a non-trivial change that touches user input, auth, or third-party calls.",
+  "owner": "security-engineering",
+  "category": "Security",
+  "tags": [
+    "security",
+    "review",
+    "code-review"
+  ],
+  "supportedAgents": [
+    "claude-code",
+    "cursor",
+    "vscode",
+    "github-copilot",
+    "windsurf"
+  ],
+  "suggestedRiskLevel": "High",
+  "installPaths": {},
+  "hooks": {
+    "preInstall": null,
+    "postInstall": null
+  }
+}

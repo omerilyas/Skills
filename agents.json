@@ -1,0 +1,124 @@
+{
+  "agents": [
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "vendor": "Anthropic",
+      "description": "Anthropic's official CLI for Claude."
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "vendor": "Anysphere",
+      "description": "AI-first code editor."
+    },
+    {
+      "id": "codex",
+      "name": "Codex",
+      "vendor": "OpenAI",
+      "description": "OpenAI's coding agent."
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "vendor": "GitHub",
+      "description": "Pair-programming assistant from GitHub."
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "vendor": "Codeium",
+      "description": "Agentic IDE from Codeium."
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "vendor": "Google",
+      "description": "Google's Gemini assistant."
+    },
+    {
+      "id": "cline",
+      "name": "Cline",
+      "vendor": "Cline",
+      "description": "Open-source coding agent for VS Code."
+    },
+    {
+      "id": "amp",
+      "name": "AMP",
+      "vendor": "Sourcegraph",
+      "description": "Sourcegraph's agentic coding assistant."
+    },
+    {
+      "id": "antigravity",
+      "name": "Antigravity",
+      "vendor": "Antigravity",
+      "description": "Agent framework."
+    },
+    {
+      "id": "clawdbot",
+      "name": "ClawdBot",
+      "vendor": "Community",
+      "description": "Community-built Claude bot."
+    },
+    {
+      "id": "droid",
+      "name": "Droid",
+      "vendor": "Factory",
+      "description": "Factory's coding droid."
+    },
+    {
+      "id": "goose",
+      "name": "Goose",
+      "vendor": "Block",
+      "description": "Block's open-source coding agent."
+    },
+    {
+      "id": "kilo",
+      "name": "Kilo",
+      "vendor": "Kilo Code",
+      "description": "Open-source coding agent."
+    },
+    {
+      "id": "kiro-cli",
+      "name": "Kiro CLI",
+      "vendor": "AWS",
+      "description": "AWS Kiro command-line agent."
+    },
+    {
+      "id": "nous-research",
+      "name": "Nous Research",
+      "vendor": "Nous Research",
+      "description": "Nous Research agent tooling."
+    },
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "vendor": "OpenCode",
+      "description": "Open-source agent for the terminal."
+    },
+    {
+      "id": "roo",
+      "name": "Roo",
+      "vendor": "Roo Code",
+      "description": "Open-source coding agent."
+    },
+    {
+      "id": "trae",
+      "name": "Trae",
+      "vendor": "ByteDance",
+      "description": "ByteDance's AI coding companion."
+    },
+    {
+      "id": "vscode",
+      "name": "VS Code",
+      "vendor": "Microsoft",
+      "description": "Visual Studio Code with agent extensions."
+    },
+    {
+      "id": "generic",
+      "name": "Generic Agent Framework",
+      "vendor": "Any",
+      "description": "Any agent that follows a generic skill convention."
+    }
+  ]
+}

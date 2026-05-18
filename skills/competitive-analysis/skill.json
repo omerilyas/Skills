@@ -1,0 +1,28 @@
+{
+  "skillSpecVersion": "1",
+  "id": "competitive-analysis",
+  "name": "Competitive Analysis",
+  "version": "0.8.0",
+  "summary": "Compare a product against competitors on a fixed scorecard.",
+  "description": "Builds a side-by-side scorecard comparing a product against named competitors across pricing, capability, integration, and support, with citations.",
+  "whenToUse": "Use when you need a quick comparison brief for a deal review or strategy meeting.",
+  "owner": "strategy-tools",
+  "category": "Strategy",
+  "tags": [
+    "competitive",
+    "analysis",
+    "strategy"
+  ],
+  "supportedAgents": [
+    "claude-code",
+    "cursor",
+    "vscode",
+    "windsurf"
+  ],
+  "suggestedRiskLevel": "Medium",
+  "installPaths": {},
+  "hooks": {
+    "preInstall": null,
+    "postInstall": null
+  }
+}

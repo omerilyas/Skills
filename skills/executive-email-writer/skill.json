@@ -1,0 +1,28 @@
+{
+  "skillSpecVersion": "1",
+  "id": "executive-email-writer",
+  "name": "Executive Email Writer",
+  "version": "0.9.1",
+  "summary": "Draft concise, executive-ready emails from rough notes.",
+  "description": "Rewrites rough notes into clear, short emails with the right tone for an executive audience. Offers two variants: brief and slightly longer.",
+  "whenToUse": "Use when you need to send a short, high-quality email and you only have bullet points.",
+  "owner": "comms-tools",
+  "category": "Communication",
+  "tags": [
+    "email",
+    "writing",
+    "executive"
+  ],
+  "supportedAgents": [
+    "claude-code",
+    "cursor",
+    "vscode",
+    "github-copilot"
+  ],
+  "suggestedRiskLevel": "Low",
+  "installPaths": {},
+  "hooks": {
+    "preInstall": null,
+    "postInstall": null
+  }
+}
