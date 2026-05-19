@@ -1,6 +1,6 @@
 {
   "registryVersion": "1",
-  "generatedAt": "2026-05-19T14:30:00.000Z",
+  "generatedAt": "2026-05-19T14:45:35.143Z",
   "skills": [
     {
       "id": "powerpoint-builder",
@@ -70,7 +70,7 @@
         "vscode",
         "generic"
       ],
-      "visibility": "Published",
+      "visibility": "Internal",
       "approvalStatus": "Approved",
       "riskLevel": "Low",
       "installCount": 0,
