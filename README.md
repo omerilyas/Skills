@@ -20,6 +20,11 @@ Skills/
         └── README.md
 ```
 
+## Skills in this registry
+
+- **[powerpoint-builder](skills/powerpoint-builder/)** — Turn messy notes, transcripts, or technical material into polished, executive-ready presentation structures.
+- **[ui-design](skills/ui-design/)** — Generate visually distinctive, production-ready frontend interfaces that look like they came from a top-tier design team, not a generic AI template.
+
 ## Adding a skill (Mode 1)
 
 1. `git checkout -b add-<skill-id>`
