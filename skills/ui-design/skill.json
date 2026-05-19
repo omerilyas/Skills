@@ -25,12 +25,7 @@
   ],
   "supportedAgents": [
     "claude-code",
-    "cursor",
-    "codex",
-    "github-copilot",
-    "windsurf",
-    "vscode",
-    "generic"
+    "codex"
   ],
   "suggestedRiskLevel": "Low"
 }
