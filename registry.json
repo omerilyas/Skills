@@ -1,6 +1,6 @@
 {
   "registryVersion": "1",
-  "generatedAt": "2026-05-19T00:00:00.000Z",
+  "generatedAt": "2026-05-19T12:00:00.000Z",
   "skills": [
     {
       "id": "powerpoint-builder",
@@ -36,6 +36,50 @@
       "path": "skills/powerpoint-builder",
       "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/powerpoint-builder/skill.json",
       "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/powerpoint-builder/SKILL.md"
+    },
+    {
+      "id": "ui-design",
+      "name": "UI Design",
+      "version": "1.0.0",
+      "summary": "Generate visually distinctive, production-ready frontend interfaces that look like they came from a top-tier design team, not a generic AI template.",
+      "description": "UI Design turns your agent into a senior product designer plus frontend engineer. Given a brief, it commits to a single strong visual direction (editorial, brutalist, tactical, neo-banking, Apple-like refinement, and so on), defines a memorable signature interaction, and then ships clean, typed, accessible Next.js plus React plus Tailwind plus shadcn/ui code. Every output covers loading, empty, error, hover, and focus states, is responsive by default, and follows a clear component architecture under app, components, components/ui, hooks, lib, styles, and types. The skill is opinionated about avoiding generic AI-looking interfaces.",
+      "whenToUse": "Use this skill whenever you want to design or build a frontend that needs to feel premium, intentional, and visually memorable. Good fits include landing pages, SaaS product UI, dashboards and admin portals, AI agent interfaces, internal enterprise tools, design systems, marketing sites, and mobile-responsive experiences. Reach for it specifically when the user says things like build a UI, design a page, make a dashboard, create a component, or anything that should not look like a default Tailwind template.",
+      "owner": "design-systems-team",
+      "category": "Frontend",
+      "tags": [
+        "ui",
+        "design",
+        "frontend",
+        "react",
+        "nextjs",
+        "tailwind",
+        "shadcn",
+        "framer-motion",
+        "typescript",
+        "accessibility",
+        "design-system",
+        "dashboard",
+        "landing-page"
+      ],
+      "supportedAgents": [
+        "claude-code",
+        "cursor",
+        "codex",
+        "github-copilot",
+        "windsurf",
+        "vscode",
+        "generic"
+      ],
+      "visibility": "Published",
+      "approvalStatus": "Approved",
+      "riskLevel": "Low",
+      "installCount": 0,
+      "downloadCount": 0,
+      "ratingPlaceholder": null,
+      "lastUpdated": "2026-05-19",
+      "path": "skills/ui-design",
+      "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/ui-design/skill.json",
+      "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/ui-design/SKILL.md"
     }
   ]
 }
