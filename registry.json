@@ -1,6 +1,6 @@
 {
   "registryVersion": "1",
-  "generatedAt": "2026-05-19T14:45:35.143Z",
+  "generatedAt": "2026-05-19T15:40:37.038Z",
   "skills": [
     {
       "id": "powerpoint-builder",
@@ -63,14 +63,9 @@
       ],
       "supportedAgents": [
         "claude-code",
-        "cursor",
-        "codex",
-        "github-copilot",
-        "windsurf",
-        "vscode",
-        "generic"
+        "codex"
       ],
-      "visibility": "Internal",
+      "visibility": "Published",
       "approvalStatus": "Approved",
       "riskLevel": "Low",
       "installCount": 0,
