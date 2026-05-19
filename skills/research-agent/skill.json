@@ -1,0 +1,31 @@
+{
+  "skillSpecVersion": "1",
+  "id": "research-agent",
+  "name": "Research Agent",
+  "version": "1.0.0",
+  "summary": "Deep research specialist that searches, verifies, and synthesizes evidence-based answers with explicit confidence levels.",
+  "description": "An elite research workflow optimized for accuracy, source validation, and clear synthesis. The agent searches first instead of guessing, prefers primary sources, cross-checks important claims, surfaces conflicting views, and produces structured outputs with an Executive Summary, Key Findings, Evidence, Conflicting Views, Risks, Confidence Level, and Sources Consulted. Designed for technical, market, and scientific research with a zero-hallucination policy.",
+  "whenToUse": "Use when you need a thorough, verified answer to a non-trivial question — technical deep-dives, market or competitor research, scientific or medical topics, or any case where accuracy and source quality matter more than speed.",
+  "owner": "research-tools-team",
+  "category": "Research",
+  "tags": [
+    "research",
+    "evidence-based",
+    "synthesis",
+    "fact-checking",
+    "citations",
+    "technical-research",
+    "market-research"
+  ],
+  "supportedAgents": [
+    "claude-code",
+    "cursor",
+    "codex",
+    "github-copilot",
+    "windsurf",
+    "gemini",
+    "vscode",
+    "generic"
+  ],
+  "suggestedRiskLevel": "Low"
+}
