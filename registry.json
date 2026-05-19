@@ -1,26 +1,30 @@
 {
   "registryVersion": "1",
-  "generatedAt": "2026-05-18T19:05:23.240Z",
+  "generatedAt": "2026-05-19T00:00:00.000Z",
   "skills": [
     {
       "id": "powerpoint-builder",
       "name": "PowerPoint Builder",
-      "version": "1.0.0",
-      "summary": "Turn structured outlines into branded PowerPoint decks.",
-      "description": "Generates polished, on-brand PowerPoint decks from a structured outline. Handles title slides, agenda, content slides, and a closing slide using your team's template.",
-      "whenToUse": "Use when you have bullet-point notes or a meeting brief and need a presentable deck in minutes.",
-      "owner": "marketing-tools",
-      "category": "Productivity",
+      "version": "1.1.0",
+      "summary": "Turn messy notes, transcripts, or technical material into polished, executive-ready presentation structures.",
+      "description": "An advanced Executive PowerPoint Architect that acts as a presentation strategist, messaging coach, and technical-to-business translator. It takes raw inputs (bullet points, meeting notes, transcripts, whitepapers, demos, or architecture docs) and produces a polished storyline, slide-by-slide structure, speaker notes, and visual recommendations. It supports five presentation modes (Executive Briefing, Customer Presentation, Technical Deep Dive, Demo Storytelling, Workshop / Training) and applies proven storytelling and slide-design frameworks like the Pyramid Principle, SCQA, and Before-After-Bridge.",
+      "whenToUse": "Use when you need to turn rough thoughts, technical material, or messy notes into a clear, executive-ready presentation outline with a strong storyline, the right slide titles, and speaker notes tailored to a specific audience.",
+      "owner": "tme-tools-team",
+      "category": "PowerPoint",
       "tags": [
         "powerpoint",
+        "presentations",
+        "storytelling",
+        "executive",
         "decks",
-        "office",
-        "marketing"
+        "communication"
       ],
       "supportedAgents": [
         "claude-code",
         "cursor",
-        "vscode"
+        "codex",
+        "vscode",
+        "generic"
       ],
       "visibility": "Published",
       "approvalStatus": "Approved",
@@ -28,7 +32,7 @@
       "installCount": 412,
       "downloadCount": 731,
       "ratingPlaceholder": null,
-      "lastUpdated": "2026-04-22",
+      "lastUpdated": "2026-05-19",
       "path": "skills/powerpoint-builder",
       "skillJsonUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/powerpoint-builder/skill.json",
       "skillMdUrl": "https://raw.githubusercontent.com/omerilyas/Skills/main/skills/powerpoint-builder/SKILL.md"
