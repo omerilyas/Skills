@@ -1,6 +1,6 @@
 {
   "registryVersion": "1",
-  "generatedAt": "2026-05-19T15:40:37.038Z",
+  "generatedAt": "2026-05-19T16:14:49.826Z",
   "skills": [
     {
       "id": "powerpoint-builder",
@@ -65,7 +65,7 @@
         "claude-code",
         "codex"
       ],
-      "visibility": "Published",
+      "visibility": "Deprecated",
       "approvalStatus": "Approved",
       "riskLevel": "Low",
       "installCount": 0,
